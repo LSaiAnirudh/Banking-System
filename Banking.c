@@ -1,4 +1,4 @@
-// DynamicBankingSystem
+// DynamicBankingSystem By Team 7
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
